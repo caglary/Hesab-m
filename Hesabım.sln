@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesabım", "Hesabım\Hesabım.csproj", "{BE426AD3-D6C2-4731-9656-E2B4E7F66CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{4A3766B2-A95B-4BE1-8CA3-69946A39A199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE426AD3-D6C2-4731-9656-E2B4E7F66CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE426AD3-D6C2-4731-9656-E2B4E7F66CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE426AD3-D6C2-4731-9656-E2B4E7F66CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE426AD3-D6C2-4731-9656-E2B4E7F66CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3766B2-A95B-4BE1-8CA3-69946A39A199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3766B2-A95B-4BE1-8CA3-69946A39A199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3766B2-A95B-4BE1-8CA3-69946A39A199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3766B2-A95B-4BE1-8CA3-69946A39A199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEAF3A9-B1D7-489B-BE3D-D06C0EB92523}
+	EndGlobalSection
+EndGlobal
